@@ -6,7 +6,9 @@ description: About me description
 
 # User settings
 username: Alexandre Faria
-user_description: "Blablabla Java, Golang, docker? API, oauth2/openid, open source contributions."
+user_description: "Software Engineer since 2005, i am currently working for <a target=\"_blank\" href=\"https://www.decathlon-united.com\">Decathlon</a> group.
+As developer, i am more interested on the back side, especially on ReST APIs and authentication/security topics. Sharing knowledge is what i prefer in my daily job.
+Open source world is also a fascinating topic for me."
 user_title: Software Engineer
 email: contact@alexandrefaria.net
 twitter_username: al3xandre_faria
