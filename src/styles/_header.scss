@@ -1,14 +1,17 @@
 #particles-js {
-  background: $main;
   display: flex;
   vertical-align: bottom;
   width: 100%;
   min-height: 100vh;
-  background-image: url("../img/back_light.jpg");
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
+
+  background: url("../img/back_light.jpg") no-repeat fixed 50% 50% $main;
   background-size: cover;
-  background-attachment: fixed;
+
+  /*Specific for SAFARI (iOs) */
+  @supports (-webkit-overflow-scrolling: touch) {
+    background-attachment: initial;
+  }
+
   .particles-js-canvas-el {
     width:100% !important;
     height:100vh !important;
