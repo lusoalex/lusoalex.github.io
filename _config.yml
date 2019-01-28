@@ -18,6 +18,6 @@ linkedin_username: fariaalexandre
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-133442797-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
