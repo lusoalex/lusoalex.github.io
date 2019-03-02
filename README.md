@@ -23,6 +23,15 @@ The Theme features:
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
 
+## Install
+1. `npm install`
+2. `gulp`
+
+## Run locally
+1. For Mac OS install [RVM](https://usabilityetc.com/articles/ruby-on-mac-os-x-with-rvm/)
+2. Follow these [instructions](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll)
+3. Run `bundle exec jekyll serve`
+
 ## License
 
 This project is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
