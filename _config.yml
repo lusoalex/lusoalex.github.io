@@ -6,15 +6,17 @@ description: About me description
 
 # User settings
 username: Alexandre Faria
-user_description: "Software Engineer since 2005, i am currently working for <a target=\"_blank\" href=\"https://www.decathlon-united.com\">Decathlon</a> group.
-As developer, i am more interested on the back side, especially on ReST APIs and authentication/security topics. Sharing knowledge is what i prefer in my daily job.
+user_description: "Software Engineer since 2005, I am currently working for <a target=\"_blank\" href=\"https://www.decathlon-united.com\">Decathlon</a> group.
+As a developer, I am more interested in the back side, especially on APIs and authentication/security topics. Sharing knowledge is what I prefer in my daily job.
 Open source world is also a fascinating topic for me."
 user_title: Software Engineer
 email: contact@alexandrefaria.net
+blog_username: lusoalex
 github_username: lusoalex
 twitter_username: lusoalex_
-medium_username: alexandre.faria
 linkedin_username: fariaalexandre
+medium_username: alexandre.faria
+slideshare_username: AlexandreFaria11
 
 # Google-analytics
 google-analytics:
