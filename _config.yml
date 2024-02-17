@@ -1,5 +1,5 @@
 # Site settings
-title: Alexandre Faria - Software Engineer
+title: Alexandre Faria
 description: About me description
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -11,8 +11,9 @@ With other 20 years of experience in engineering, I had the privilege of achievi
 One of my proudest achievements was establishing the API strategy that now underpins our company's digital infrastructure.
 After setting up API Gateway as a core component in our information System, I put in place the API training and get the chance to train many teammates all around the world, which will remain one of my most memorable human experiences.
 Since 2019 I led the design of an authentication system and API Platform focused on customer data, ensuring compliance and bolstering trust with our users.
-On the coding side, I spend most of my time in code review, definitively the best moment to grow and learn. Fortunately I still code (more interested in the backend side) obviously on APIs and authentication/security topics, but not only.
-Sharing knowledge is what I prefer in my daily job. Open source world is also a fascinating topic for me."
+On the coding side, I spend most of my time in code review, definitively the best moment to grow and learn. 
+Fortunately I still code (more interested in the backend side) obviously on APIs and authentication/security topics, but not only.
+Sharing knowledge is what I prefer in my daily job. "
 user_title: Senior Staff Engineer
 email: contact@alexandrefaria.net
 blog_username: lusoalex
